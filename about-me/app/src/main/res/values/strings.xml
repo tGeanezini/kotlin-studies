@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Tiago Geanezini</string>
+    <string name="image_desc">Imagem</string>
+    <string name="bio">Bacon ipsum dolor amet laborum ea magna turducken capicola brisket quis swine in elit anim pig turkey pariatur boudin. Id ad pig, non reprehenderit officia pork chop cillum. Meatloaf pariatur hamburger consectetur, consequat leberkas bacon burgdoggen incididunt porchetta drumstick est pancetta proident pork chop. Bacon deserunt ullamco andouille sed, exercitation in. Brisket fugiat pork loin, mollit chicken kevin deserunt ut voluptate. Non doner magna velit pork belly capicola meatball jowl dolore dolore cupidatat do sausage.
+
+\n\nFlank non andouille adipisicing enim deserunt. Dolore velit turducken dolor pig in pork loin alcatra deserunt strip steak et lorem kevin fatback. Duis ea aute in, frankfurter salami pork belly proident picanha sirloin. In bresaola bacon kevin beef pastrami.
+
+\n\nCommodo tenderloin irure chicken andouille filet mignon. Nulla duis leberkas kielbasa pig, laboris aliquip in spare ribs quis non pancetta. Spare ribs tempor in eiusmod biltong nisi. Fatback ground round culpa, ullamco quis in venison sint. Picanha biltong officia doner eiusmod pariatur beef ribs excepteur.</string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
