@@ -19,3 +19,7 @@ Z
 *app/src/main/res/navigation/navigation.xml,8\7\87a0250b860c3b1e1b7bd1f0e4c533d6504bf55b
 W
 'app/src/main/res/menu/overflow_menu.xml,c\4\c4a9f68f7f57da293ad10ba7a7faa14724c89170
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
